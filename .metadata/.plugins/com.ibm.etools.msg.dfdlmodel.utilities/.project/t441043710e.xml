@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><MessageBroker name="LookupTableCSVdata">
+  <XSDCollection href="platform:/resource/LookupTableCSVdata/IBMdefined/CommaSeparatedFormat.xsd" prefix="tns" targetNamespace="http://www.ibm.com/dfdl/CommaSeparatedFormat"/>
+  <XSDCollection href="platform:/resource/LookupTableCSVdata/LookupTableCSVdata.xsd" prefix="" targetNamespace="">
+    <import name="IBMdefined/CommaSeparatedFormat.xsd" targetNamespace="http://www.ibm.com/dfdl/CommaSeparatedFormat"/>
+    <element href="platform:/resource/LookupTableCSVdata/LookupTableCSVdata.xsd#//LookupTableCSVdata;XSDElementDeclaration" name="LookupTableCSVdata"/>
+  </XSDCollection>
+</MessageBroker>

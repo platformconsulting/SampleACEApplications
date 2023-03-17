@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><MessageBroker name="ExampleValidate">
+  <XSDCollection href="platform:/resource/ExampleValidate/ExampleModel.xsd" prefix="" targetNamespace="">
+    <element href="platform:/resource/ExampleValidate/ExampleModel.xsd#//Message;XSDElementDeclaration" name="Message"/>
+  </XSDCollection>
+</MessageBroker>

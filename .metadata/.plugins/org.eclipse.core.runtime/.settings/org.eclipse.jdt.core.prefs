@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.classpathVariable.COMMON_CLASSES_HOME=C\:/Applications/IBM/ACE/11.0.0.13/common/classes
+org.eclipse.jdt.core.classpathVariable.JCN_HOME=C\:/Applications/IBM/ACE/11.0.0.13/tools/plugins/com.ibm.etools.mft.jcn_11.0.0.13/
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled

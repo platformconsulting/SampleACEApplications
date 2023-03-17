@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1672887441194_1" label="[Transformation_Java]" name="[Transformation_Java]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Transformation_Java" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Transformation_JavaJava" type="4"/>
+</workingSet>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1673042438027_2" label="[ExampleRoutingJCN]" name="[ExampleRoutingJCN]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ExampleRoutingJCNJava" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ExampleRoutingJCN" type="4"/>
+</workingSet>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1673042438027_3" label="[Transformation_Map]" name="[Transformation_Map]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Transformation_Map" type="4"/>
+</workingSet>
+<workingSet editPageId="com.ibm.etools.mft.navigator.BrokerWorkingSet.AppLib" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1673042547451_4" label="[ACECommonLib]" name="[ACECommonLib]">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ACECommonLibJava" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/ACECommonLib" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1669428468036_0" label="Window Working Set" name="Aggregate for window 1669428468036"/>
+</workingSetManager>
