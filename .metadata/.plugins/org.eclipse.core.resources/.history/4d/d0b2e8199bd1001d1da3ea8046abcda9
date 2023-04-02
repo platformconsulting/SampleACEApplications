@@ -31,7 +31,7 @@ public class LargeMessages extends
 	private MbMessage inMessage = null;
 
 	// int j = 0;
-	//add some comments
+	
 	public void evaluate(MbMessageAssembly inAssembly) throws MbException {
 		MbOutputTerminal out = getOutputTerminal("out");
 		MbOutputTerminal alt = getOutputTerminal("alternate");

@@ -876,3 +876,43 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product
 
 !ENTRY org.eclipse.equinox.registry 2 0 2023-03-16 20:35:13.466
 !MESSAGE The extensions and extension-points from the bundle "org.eclipse.emf.commonj.sdo" are ignored. The bundle is not marked as singleton. 
+!SESSION 2023-04-02 16:55:30.978 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.fullversion=8.0.6.20 - pwa6480sr6fp20ifix-20210224_01(SR6 FP20+IJ30974)
+JRE 1.8.0 Windows 10 amd64-64-Bit Compressed References 20210223_466229 (JIT enabled, AOT enabled)
+OpenJ9   - 5b31a42
+OMR      - 4eb8f5f
+IBM      - b7e48f4
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -data C:\Workspace\ace -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product com.ibm.etools.msgbroker.tooling.ide tools_auto -data C:\Workspace\ace -showlocation -product com.ibm.etools.msgbroker.tooling.ide
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-04-02 16:55:38.977
+!MESSAGE Both 'com.ibm.etools.javaee.core' and 'com.ibm.etools.mft.service.model' register an extension parser for 'application'
+
+!ENTRY org.eclipse.ui 2 2 2023-04-02 16:55:45.170
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.adapter.c, page: com.ibm.adapter.c.ui.preferencepage.CPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2023-04-02 16:55:45.171
+!MESSAGE Invalid preference category path: com.ibm.debug.breakpoints.common.pref.tracepoint (bundle: com.ibm.debug.wsa, page: com.ibm.debug.wsa.WSATracepointPreferencePage)
+
+!ENTRY org.eclipse.ui 2 2 2023-04-02 16:55:45.172
+!MESSAGE Invalid preference category path: com.ibm.importer.preferences (bundle: com.ibm.etools.cobol.preference.ui, page: com.ibm.etools.cobol.preference.ui.preferencepage.CobolPreferencePage)
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2023-04-02 16:55:45.747
+!MESSAGE 
+
+!ENTRY com.ibm.mq.runtime 1 0 2023-04-02 16:56:20.125
+!MESSAGE 
+
+!ENTRY com.ibm.mq.runtime 1 0 2023-04-02 16:56:20.125
+!MESSAGE C:\Applications\IBM\ACE\11.0.0.13\tools>mqsifindmqpath
+
+!ENTRY com.ibm.mq.runtime 1 0 2023-04-02 16:56:20.197
+!MESSAGE BIP8100I: Unable to detect an installation of IBM MQ 
+
+!ENTRY com.ibm.mq.runtime 4 0 2023-04-02 16:56:20.208
+!MESSAGE WebSphere MQ install location is not found.
+
+!ENTRY org.eclipse.ui 4 4 2023-04-02 17:04:06.810
+!MESSAGE Plug-in 'com.ibm.etools.mft.applib.ui' contributed an invalid Menu Extension (Path: 'convertMenu' is invalid): com.ibm.etools.mft.applib.ui.action.RefactorIntoAppLibAction
