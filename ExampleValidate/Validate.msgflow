@@ -29,7 +29,7 @@
     </composition>
     <propertyOrganizer/>
     <stickyBoard>
-      <stickyNote location="225,280">
+      <stickyNote location="108,204">
         <body xmi:type="utility:ConstantString" string="This is a test&#xA;"/>
       </stickyNote>
     </stickyBoard>
