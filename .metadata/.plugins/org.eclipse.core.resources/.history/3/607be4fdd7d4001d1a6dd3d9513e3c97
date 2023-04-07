@@ -28,10 +28,6 @@
       <connections xmi:type="eflow:FCMConnection" xmi:id="FCMConnection_9" targetNode="FCMComposite_1_7" sourceNode="FCMComposite_1_3" sourceTerminalName="OutTerminal.failure" targetTerminalName="InTerminal.in"/>
     </composition>
     <propertyOrganizer/>
-    <stickyBoard>
-      <stickyNote location="225,280">
-        <body xmi:type="utility:ConstantString" string="This is a test&#xA;"/>
-      </stickyNote>
-    </stickyBoard>
+    <stickyBoard/>
   </eClassifiers>
 </ecore:EPackage>
