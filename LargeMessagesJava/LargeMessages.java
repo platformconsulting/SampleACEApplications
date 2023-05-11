@@ -30,6 +30,8 @@ public class LargeMessages extends
 	private int intNumberOfSaleListsFound = 0;
 	private MbMessage inMessage = null;
 
+	//This is some test
+	
 	// int j = 0;
 	//add some comments
 	public void evaluate(MbMessageAssembly inAssembly) throws MbException {
