@@ -21,6 +21,7 @@ public class RoutingJCN_JavaCompute extends MbJavaComputeNode {
 		try {
 			
 			Utils.upper("Hello world");
+			//This a test
 			
 			MbMessage message = assembly.getMessage();
 			// ----------------------------------------------------------
