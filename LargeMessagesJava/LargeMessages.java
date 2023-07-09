@@ -32,6 +32,9 @@ public class LargeMessages extends
 
 	//This is some test
 	
+	//This is another test
+	
+	
 	// int j = 0;
 	//add some comments
 	public void evaluate(MbMessageAssembly inAssembly) throws MbException {
