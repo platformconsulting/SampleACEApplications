@@ -42,6 +42,8 @@ public class PrintHelloWorld extends MbJavaComputeNode {
 		// if not propagating message to the 'out' terminal
 		out.propagate(outAssembly);
 
+		//some more test
+		
 	}
 
 	/**

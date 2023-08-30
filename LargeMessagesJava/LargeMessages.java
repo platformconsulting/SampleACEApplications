@@ -10,9 +10,7 @@ import com.ibm.broker.plugin.MbException;
 import com.ibm.broker.plugin.MbMessage;
 import com.ibm.broker.plugin.MbMessageAssembly;
 import com.ibm.broker.plugin.MbOutputTerminal;
-import com.ibm.broker.plugin.MbUserException;
 import com.ibm.broker.plugin.MbXMLNSC;
-import com.ibm.broker.plugin.MbTimestamp;
 
 public class LargeMessages extends
 		MbJavaComputeNode {
@@ -30,10 +28,6 @@ public class LargeMessages extends
 	private int intNumberOfSaleListsFound = 0;
 	private MbMessage inMessage = null;
 
-	//This is some test
-	
-	//This is another test
-	
 	
 	// int j = 0;
 	//add some comments
