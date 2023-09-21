@@ -4,7 +4,6 @@
 	<comment></comment>
 	<projects>
 		<project>LargeMessagesJava</project>
-		<project>ACECommonLib</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
