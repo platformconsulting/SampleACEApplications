@@ -3,7 +3,6 @@
 	<name>LargeMessages</name>
 	<comment></comment>
 	<projects>
-		<project>ACECommonLib</project>
 		<project>LargeMessagesJava</project>
 	</projects>
 	<buildSpec>
